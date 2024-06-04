@@ -1,0 +1,7 @@
+flask
+Pillow
+matplotlib
+mxnet
+gluoncv
+opencv-python-headless
+numpy==1.19.5
